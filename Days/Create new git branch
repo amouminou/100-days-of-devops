@@ -1,0 +1,26 @@
+Steps to create the new branch
+
+Go to the repository directory
+
+cd /usr/src/kodekloudrepos/demo
+
+
+Make sure you’re on the master branch
+
+git checkout master
+
+
+Create a new branch from master
+
+git checkout -b xfusioncorp_demo
+
+
+(Optional but recommended) Verify the branch
+
+git branch
+
+
+You should see xfusioncorp_demo highlighted as the current branch.
+
+✅ That’s it!
+The new branch xfusioncorp_demo is now created from the master branch and ready for development.
